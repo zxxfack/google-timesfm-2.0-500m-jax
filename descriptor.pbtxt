@@ -1,0 +1,17 @@
+uuid: "2b120d0a-b25f-49bf-814a-f3f312b98e4d"
+build_data {
+  timestamp {
+    seconds: 1732556520
+  }
+  user: "senrajat"
+  hostname: "senrajat.c.googlers.com"
+  path: "/google/src/cloud/senrajat/tfm_bench/google3"
+  target: "//learning/multipod/pax/foundation_ts:colab_utils"
+  invocation_id: "3729db89-fc52-4cd3-8d39-5a0d48ad8ad4"
+  changelist: 694588664
+  baseline_cl: 694588664
+  workspace_id: "senrajat/1028"
+  citc_snapshot: 4073
+  client_status: MODIFIED
+  verifiable: NON_VERIFIABLE
+}
